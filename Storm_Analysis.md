@@ -269,7 +269,7 @@ p2 <- ggplot(data=injury_events,
 grid.arrange(p1, p2, main="Top deadly weather events in the US (1950-2011)")
 ```
 
-![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11.png) 
+![plot of tempstorm1](tempstorm1.png) 
 
 Tornadoes cause most number of deaths and injuries among all event types. There 
 are more than 5,000 deaths and more than 10,000 injuries in the last 60 years
@@ -308,7 +308,7 @@ p2 <- ggplot(data=crop_dmg_events,
 grid.arrange(p1, p2, main="Weather costs to the US economy (1950-2011)")
 ```
 
-![plot of chunk unnamed-chunk-12](figure/unnamed-chunk-12.png) 
+![plot of tempstorm2](tempstorm2.png) 
 
 Property damages are given in logarithmic scale due to large range of values.
 The data shows that flash floods and thunderstorm winds cost the largest
